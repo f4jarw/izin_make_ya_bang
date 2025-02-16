@@ -1,6 +1,6 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "Wirzy Api's",
+  "version": "Beta",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
     "status": "Online!",
@@ -14,16 +14,12 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "Wirzy"
   },
   "links": [
     {
       "name": "Source Code",
       "url": "https://github.com/rynxzyy/Rynn-UI"
-    },
-    {
-      "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
     }
   ],
   "categories": [
